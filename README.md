@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Isse  
+# 👋 Welcome to isseshub!
 
 🔹 Passionate **Cybersecurity Student** focused on:  
 - 🛡️ **Penetration Testing**  
@@ -38,11 +38,7 @@
 - **Introduction to Network Analysis**  
 - **Introduction to Darkweb Operations (Securityblue.team)**  
 
-🎓 **Currently Preparing for:**  
-- **OSCP** (Offensive Security Certified Professional)  
-- **Security Blue Team Lvl 1**  
-- **CEH** (Certified Ethical Hacker)  
-- **CISSP** (Certified Information Systems Security Professional)  
+
 
 ---
 
